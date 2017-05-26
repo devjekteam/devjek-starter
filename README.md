@@ -1,1 +1,1 @@
-# devjek-example
+# devjek starter repo
